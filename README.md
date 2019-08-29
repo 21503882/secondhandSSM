@@ -1,3 +1,5 @@
+需要的项目加QQ 79120063吧
+
 # 基于SSM的校园二手交易平台
 
 http://120.79.21.204:8080/
@@ -5,10 +7,9 @@ http://120.79.21.204:8080/
 **完整的设计报告在后面**
 
 喜欢就点一下star哟，谢谢亲的支持  
-https://github.com/wsk1103/mySSM  
+https://github.com/21503882/secondhandSSM
 
-个人主页  
-https://wsk1103.github.io/
+
 
 
 Java版本：1.8   
